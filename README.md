@@ -2,8 +2,11 @@
 
 Burp extesnsions
 ================
-Blind xss : https://github.com/wish-i-was/femida
-Aws-extender : https://github.com/VirtueSecurity/aws-extender
+Reflected XSS : https://github.com/elkokc/reflector
+
+Blind XSS : https://github.com/wish-i-was/femida
+
+Aws-Extender : https://github.com/VirtueSecurity/aws-extender
 
 
 Browser extensions
