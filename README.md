@@ -18,3 +18,5 @@ FoxyProxy
 Keyfinder : https://github.com/momenbasel/keyFinder
 
 Regex find : https://github.com/brandon1024/find
+
+RegEx Highlighter : https://chrome.google.com/webstore/detail/regex-highlighter/fflhnegnapfabeeoanbnmhkengiabffb
